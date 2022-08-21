@@ -54,7 +54,7 @@
         <!--nav menu end-->
         <main>
             <article class="contact">
-                 <h1>Email Confirmation</h1>
+               <h1>Email Confirmation</h1>
 		<fieldset>
         	<legend>Contact Information</legend>
     		<label for="first_name">First Name:</label>
